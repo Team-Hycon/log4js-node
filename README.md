@@ -16,7 +16,6 @@ Out of the box it supports the following features:
 * file appender, with configurable log rolling based on file size or date
 * SMTP appender
 * GELF appender
-* Loggly appender
 * Logstash (UDP and HTTP) appender
 * logFaces (UDP and HTTP) appender
 * multiprocess appender (useful when you've got multiple servers)

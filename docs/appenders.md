@@ -43,7 +43,6 @@ The following appenders are supported by log4js, but will issue deprecation warn
 
 * [gelf](https://github.com/log4js-node/gelf)
 * [hipchat](https://github.com/log4js-node/hipchat)
-* [loggly](https://github.com/log4js-node/loggly)
 * [logstashUDP](https://github.com/log4js-node/logstashUDP)
 * [mailgun](https://github.com/log4js-node/mailgun)
 * [smtp](https://github.com/log4js-node/smtp)
